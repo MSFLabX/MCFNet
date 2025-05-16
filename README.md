@@ -46,7 +46,17 @@ To get started, we recommend setting up a conda environment and installing depen
 
 ### Citation
 
-We sincerely apologize for the partial code availability (MCFNet.py and FDFA.py) at this stage. The remaining code files will be fully released upon formal acceptance of the paper.
+If this code is useful for your research, please cite this paper.
+
+@ARTICLE{10989501,
+  author={Song, Qiya and Mo, Feng and Ding, Kexin and Xiao, Lin and Dian, Renwei and Kang, Xudong and Li, Shutao},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={MCFNet: Multiscale Cross-domain Fusion Network for HSI and LiDAR Data Joint Classification}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TGRS.2025.3567297}}
 
 ## 🌸 Acknowledgment
 
